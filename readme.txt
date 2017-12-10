@@ -1,4 +1,4 @@
 Git is a version control system
-add new line
-
+yes, i add new line
+this is cool
 i like it 
