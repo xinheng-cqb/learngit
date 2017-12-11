@@ -1,6 +1,7 @@
 Git is a version control system
 yes, i add new line
 this is cool
-like it 
+like 
 
-i need new line
+
+add new line on master
